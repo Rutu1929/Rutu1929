@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center">✨ Hii, I'm Rutuja Pansare 👩‍💻✨</h1>
+<h1 align="center">✨ Hii, I'm Rutuja Pansare 👩‍💻✨</h1> 
 <h3 align="center">🚀 Data Scientist | Python Developer | Dashboard Creator</h3>
 
 <p align="center">
