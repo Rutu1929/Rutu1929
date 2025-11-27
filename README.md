@@ -15,7 +15,7 @@
 ---
 
 ## 🚀 Tech Stack
-**Python | SQL | Power BI | Tableau | HTML | CSS | JavaScript | ML | Data Visualization**
+**Python | SQL | Power BI | Tableau | ML | Data Visualization|Power BI|Excel**
 
 ---
 
