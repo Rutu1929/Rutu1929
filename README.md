@@ -1,39 +1,31 @@
-<!-- Header -->
-<h1 align="center">✨ Hii, I'm Rutuja Pansare 👩‍💻✨</h1> 
-<h3 align="center">🚀 Data Scientist | Python Developer | Dashboard Creator</h3>
+# ✨ Hii, I'm Rutuja Pansare 👩‍💻✨
 
-
+🚀 **Data Scientist | Python Developer | Dashboard Creator**
 
 ---
 
 ## 🌟 About Me
-- 🔭 Working on **Hostel Management System**
-- 📊 Creating beautiful **Power BI & Tableau Dashboards**
-- 🐍 Strong in **Python & SQL**
-- 🧠 Passionate about **Machine Learning & Data Visualization**
-- 🌱 Learning ** Python | SQL Joins | Analytics**
-- 💬 Ask me about **SQL, Python, ML, Data Science**
+🔭 Working on **Hostel Management System**  
+📊 Creating beautiful **Power BI & Tableau Dashboards**  
+🐍 Strong in **Python & SQL**  
+🧠 Passionate about **Machine Learning & Data Visualization**  
+🌱 Learning **Python | SQL Joins | Analytics**  
+💬 Ask me about **SQL, Python, ML, Data Science**
 
 ---
 
 ## 🚀 Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+**Python | SQL | Power BI | Tableau | HTML | CSS | JavaScript | ML | Data Visualization**
 
 ---
 
 ## 💼 Projects
-### 🌐 **Hostel Management System**
-✔ Html+css+java script
+
+### 🌐 Hostel Management System
+✔ HTML + CSS + JavaScript  
 ✔ Accurate predictions  
 
-### 📊 **Dashboard Projects**
+### 📊 Dashboard Projects
 ✔ Power BI Dashboards  
 ✔ Tableau Dashboards  
 ✔ Clean design + filters + charts  
@@ -41,33 +33,11 @@
 ---
 
 ## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rutuja1929&show_icons=true&theme=radical" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rutuja1929&theme=radical" width="48%">
-</p>
+![Rutuja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rutu1929&show_icons=true&theme=blue)
 
 ---
 
 ## 🔗 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
 
-  <a href="https://github.com/Rutuja1929" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.gif" width="100%">
-</p>
-
-
-
-
-
-
-
+[![GitHub](https://img.shields.io/badge/GitHub-Rutu1929-181717?style=flat-square&logo=github)](https://github.com/Rutu1929)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rutuja%20Pansare-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rutuja-pansare/)
