@@ -17,7 +17,7 @@
 ---
 
 ## 🚀 Tech Stack
-**Python | SQL | Power BI | Tableau | Machine Learning | Data Visualization | Excel**
+**Python | SQL | Power BI | Tableau | Machine Learning | Data Visualization | Statistics|Artificial Intilligience|Excel**
 
 ---
 
