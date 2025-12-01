@@ -52,11 +52,7 @@
 
 ## 🔗 Portfolio Button (Click Below)
 
-<p align="center">
-  <a href="https://github.com/Rutuja1929/portfolio" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/My%20Portfolio-Open%20Now-2b2b2b?style=for-the-badge&logo=github" alt="Portfolio Button"/>
-  </a>
-</p>
+
 
 ---
 
