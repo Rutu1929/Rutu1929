@@ -1,11 +1,6 @@
 <!-- Header -->
 <h1 align="center">✨ Hii, I'm Rutuja Pansare 👩‍💻✨</h1>
 <h3 align="center">🚀 Data Scientist | Python Developer | Dashboard Creator</h3>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHd1a3YyYnE0NDdhMHB2b3R4aTc0c3o5cTg0dTV6aXBreWZtZXR6NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="300">
-</p>
-
 ---
 
 ## 🌟 About Me
