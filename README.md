@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Data Scientist | Python Developer | Dashboard Creator</h3>
 
 <p align="center">
-  <img src=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2w3b3NxcXRrY2o2NzRjMXpvN25qYmo5a28xbjc3NmttbGc3c3R0OSZlcD12MV9naWZzX3NlYXJjaCZjdT1n/fwbzI2kV3Qrlpkh59e/giphy.gif
+
 
 
 </p>
