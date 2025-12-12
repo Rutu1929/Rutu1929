@@ -70,7 +70,7 @@
   <a href="https://www.linkedin.com/in/rutuja-pansare-7b5142374" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Rutuja%20Pansare-0A66C2?style=flat-square&logo=linkedin" />
   </a>
-  <a href="https://rutuja-data-insight.lovable.app/" target="_blank">
+  <a href="https://rutuja-data-insight.lovable.app//" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-FE7F00?style=flat-square&logo=Google-Chrome&logoColor=white" />
   </a>
 </p>
