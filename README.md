@@ -9,7 +9,7 @@
 ---
 
 ## 🌟 About Me
-- 🔭 Currently working on **Hostel Management System**  
+- 🔭 Worked on **Hostel Management System**  
 - 📊 Creating beautiful **Power BI & Tableau Dashboards**  
 - 🐍 Strong in **Python & SQL**  
 - 🧠 Passionate about **Machine Learning & Data Visualization**  
